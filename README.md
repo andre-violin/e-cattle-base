@@ -75,11 +75,11 @@ Da mesma forma, deverá alterar e excluir/incluir os `scripts` correspondentes �
 }
 ```
 
-*Scripts* de *remotes* e portas não n"ao utilizadas devem ser excluídos.
+*Scripts* de *remotes* e portas não utilizadas devem ser excluídos.
 
 Caso resolva incluir mais alguma aplicação remota, deverá incluir seus dados, incluindo a porta, no `package.json` da Base:
 
-```json
+```json=
 {
   "name": "base",
   "version": "1.0.0",
