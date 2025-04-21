@@ -22,7 +22,7 @@
   "keywords": [],
   "author": "André Luís Violin",
   "description": "<a href=\"https://e-cattle.github.io/\">\r     <img src=\"/src/assets/logo.svg\" alt=\"e-Cattle circle logo\" title=\"Plataforma e-Cattle\" align=\"right\" height=\"90\" />\r </a>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@originjs/vite-plugin-federation": "^1.3.5",
     "kill-port": "^2.0.1",
